@@ -24714,6 +24714,25 @@ const RAW_RUNTIME_STATE =
           ["unpipe", "npm:1.0.0"]\
         ],\
         "linkType": "HARD"\
+      }],\
+      ["npm:1.20.2", {\
+        "packageLocation": "./.yarn/cache/body-parser-npm-1.20.2-44738662cf-1584963c6e.zip/node_modules/body-parser/",\
+        "packageDependencies": [\
+          ["body-parser", "npm:1.20.2"],\
+          ["bytes", "npm:3.1.2"],\
+          ["content-type", "npm:1.0.5"],\
+          ["debug", "virtual:2bcc47d217f870e3d52f0e55493dc34fd3da852877f7db32fa2940cc320151746026495daf6a34a974488cf5a949d93be1e2dc1ffba036faf081a9b15fcd2252#npm:2.6.9"],\
+          ["depd", "npm:2.0.0"],\
+          ["destroy", "npm:1.2.0"],\
+          ["http-errors", "npm:2.0.0"],\
+          ["iconv-lite", "npm:0.4.24"],\
+          ["on-finished", "npm:2.4.1"],\
+          ["qs", "npm:6.11.0"],\
+          ["raw-body", "npm:2.5.2"],\
+          ["type-is", "npm:1.6.18"],\
+          ["unpipe", "npm:1.0.0"]\
+        ],\
+        "linkType": "HARD"\
       }]\
     ]],\
     ["bonjour-service", [\
@@ -26459,6 +26478,13 @@ const RAW_RUNTIME_STATE =
           ["content-type", "npm:1.0.4"]\
         ],\
         "linkType": "HARD"\
+      }],\
+      ["npm:1.0.5", {\
+        "packageLocation": "./.yarn/cache/content-type-npm-1.0.5-3e037bf9ab-aa41501a6a.zip/node_modules/content-type/",\
+        "packageDependencies": [\
+          ["content-type", "npm:1.0.5"]\
+        ],\
+        "linkType": "HARD"\
       }]\
     ]],\
     ["contentful-management", [\
@@ -26523,10 +26549,10 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "HARD"\
       }],\
-      ["npm:0.5.0", {\
-        "packageLocation": "./.yarn/cache/cookie-npm-0.5.0-e2d58a161a-23bd6dd64f.zip/node_modules/cookie/",\
+      ["npm:0.6.0", {\
+        "packageLocation": "./.yarn/cache/cookie-npm-0.6.0-362d6a2e45-012989bdcd.zip/node_modules/cookie/",\
         "packageDependencies": [\
-          ["cookie", "npm:0.5.0"]\
+          ["cookie", "npm:0.6.0"]\
         ],\
         "linkType": "HARD"\
       }]\
@@ -30090,16 +30116,16 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["express", [\
-      ["npm:4.18.1", {\
-        "packageLocation": "./.yarn/cache/express-npm-4.18.1-842e583ae1-22dbd588b0.zip/node_modules/express/",\
+      ["npm:4.19.2", {\
+        "packageLocation": "./.yarn/cache/express-npm-4.19.2-f81334a22a-f70f07fdc8.zip/node_modules/express/",\
         "packageDependencies": [\
-          ["express", "npm:4.18.1"],\
+          ["express", "npm:4.19.2"],\
           ["accepts", "npm:1.3.8"],\
           ["array-flatten", "npm:1.1.1"],\
-          ["body-parser", "npm:1.20.0"],\
+          ["body-parser", "npm:1.20.2"],\
           ["content-disposition", "npm:0.5.4"],\
           ["content-type", "npm:1.0.4"],\
-          ["cookie", "npm:0.5.0"],\
+          ["cookie", "npm:0.6.0"],\
           ["cookie-signature", "npm:1.0.6"],\
           ["debug", "virtual:2bcc47d217f870e3d52f0e55493dc34fd3da852877f7db32fa2940cc320151746026495daf6a34a974488cf5a949d93be1e2dc1ffba036faf081a9b15fcd2252#npm:2.6.9"],\
           ["depd", "npm:2.0.0"],\
@@ -30115,7 +30141,7 @@ const RAW_RUNTIME_STATE =
           ["parseurl", "npm:1.3.3"],\
           ["path-to-regexp", "npm:0.1.7"],\
           ["proxy-addr", "npm:2.0.7"],\
-          ["qs", "npm:6.10.3"],\
+          ["qs", "npm:6.11.0"],\
           ["range-parser", "npm:1.2.1"],\
           ["safe-buffer", "npm:5.2.1"],\
           ["send", "npm:0.18.0"],\
@@ -31374,7 +31400,7 @@ const RAW_RUNTIME_STATE =
           ["eslint-webpack-plugin", "virtual:7243a2f0702f8452df413d5239831a2fe8f28104187d0cf79c049c7b9ba6c33bb036028e40e6b6352789084ab1637ba736da1e5086fe18a644f8aa27e1ca758a#npm:2.5.4"],\
           ["event-source-polyfill", "npm:1.0.15"],\
           ["execa", "npm:5.1.1"],\
-          ["express", "npm:4.18.1"],\
+          ["express", "npm:4.19.2"],\
           ["express-graphql", "virtual:7243a2f0702f8452df413d5239831a2fe8f28104187d0cf79c049c7b9ba6c33bb036028e40e6b6352789084ab1637ba736da1e5086fe18a644f8aa27e1ca758a#npm:0.12.0"],\
           ["fastest-levenshtein", "npm:1.0.12"],\
           ["fastq", "npm:1.13.0"],\
@@ -32236,7 +32262,7 @@ const RAW_RUNTIME_STATE =
           ["dotenv", "npm:8.2.0"],\
           ["eslint", "npm:7.32.0"],\
           ["execa", "npm:5.1.1"],\
-          ["express", "npm:4.18.1"],\
+          ["express", "npm:4.19.2"],\
           ["express-graphql", "virtual:7243a2f0702f8452df413d5239831a2fe8f28104187d0cf79c049c7b9ba6c33bb036028e40e6b6352789084ab1637ba736da1e5086fe18a644f8aa27e1ca758a#npm:0.12.0"],\
           ["fs-extra", "npm:10.1.0"],\
           ["gatsby", "virtual:118b26a6cee620b5aa3e7e8d8b8e34cd9e486f75b92701001168da9be550fadd8c9d9b12643c642e2d528c2624fd8fe7e128eec9d715340efac44400432a0e0c#npm:3.14.0"],\
@@ -33222,7 +33248,7 @@ const RAW_RUNTIME_STATE =
         "packageDependencies": [\
           ["graphql-playground-middleware-express", "virtual:7243a2f0702f8452df413d5239831a2fe8f28104187d0cf79c049c7b9ba6c33bb036028e40e6b6352789084ab1637ba736da1e5086fe18a644f8aa27e1ca758a#npm:1.7.22"],\
           ["@types/express", null],\
-          ["express", "npm:4.18.1"],\
+          ["express", "npm:4.19.2"],\
           ["graphql-playground-html", "npm:1.6.29"]\
         ],\
         "packagePeers": [\
@@ -42979,6 +43005,17 @@ const RAW_RUNTIME_STATE =
           ["unpipe", "npm:1.0.0"]\
         ],\
         "linkType": "HARD"\
+      }],\
+      ["npm:2.5.2", {\
+        "packageLocation": "./.yarn/cache/raw-body-npm-2.5.2-5cb9dfebc1-409733b2b8.zip/node_modules/raw-body/",\
+        "packageDependencies": [\
+          ["raw-body", "npm:2.5.2"],\
+          ["bytes", "npm:3.1.2"],\
+          ["http-errors", "npm:2.0.0"],\
+          ["iconv-lite", "npm:0.4.24"],\
+          ["unpipe", "npm:1.0.0"]\
+        ],\
+        "linkType": "HARD"\
       }]\
     ]],\
     ["raw-loader", [\
@@ -50091,7 +50128,7 @@ const RAW_RUNTIME_STATE =
           ["compression", "npm:1.7.4"],\
           ["connect-history-api-fallback", "npm:2.0.0"],\
           ["default-gateway", "npm:6.0.3"],\
-          ["express", "npm:4.18.1"],\
+          ["express", "npm:4.19.2"],\
           ["graceful-fs", "npm:4.2.10"],\
           ["html-entities", "npm:2.3.3"],\
           ["http-proxy-middleware", "virtual:7716466a12bd603a3b15a4cdc6e5cef0c4c05696bb50bb468acd5bdc75cf006b9bf0ed89e5fb06ac3c5acb59da1b4fa346689b26f51a076e8e35f7dc1ff6f089#npm:2.0.6"],\
